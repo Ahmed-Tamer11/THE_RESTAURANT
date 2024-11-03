@@ -127,7 +127,6 @@ margin-bottom: 4rem;
 }
 .btn-secondary,.btn-third:hover{
     background: #383848;
-    margin-left: 100px;
 }
 .btn-primary:hover,.btn-secondary:hover,.btn-third{
     background: #e4b95b;
